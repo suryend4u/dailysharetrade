@@ -1,0 +1,7 @@
+Entity, Buy/Sell, AgreedFx, Currency, InstructionDate, SettlementDate, Units, Price per unit
+foo,		B,		0.50,	  AED,     13 Oct 2018, 	15 Oct 2018,	200, 	100.25
+foo2,		B,		0.90,	  USD,     13 Oct 2018, 	15 Oct 2018,	120, 	650.5
+bar,		S,		0.22,	  GBP,	   13 Oct 2018,		15 Oct 2018,	450,	152.5
+foo1,		B,		0.52,	  AED,     13 Oct 2018, 	15 Oct 2018,	190, 	170.25
+bar2,		S,		0.21,	  INR,	   13 Oct 2018,		15 Oct 2018,	222,	110.5
+bar3,		S,		0.25,	  AED,	   13 Oct 2018,		15 Oct 2018,	232,	190.5
